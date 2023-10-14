@@ -1,0 +1,2 @@
+# using-Cyber-security-for-Steganography-for-wireless-adhoc-Mobile-network-application
+This repository hosts a comprehensive project focusing on the integration of steganography within wireless ad-hoc mobile networks, emphasizing cyber security. The project aims to provide a covert communication mechanism by embedding secret information within network communication, bolstering security measures without drawing undue attention.
